@@ -30,8 +30,7 @@ public class FreelancersService {
 		 freeLancers.add(freeLancer);
 	}
 	
-	public void updateFreelancer(FreeLancers freeLancer){
-		 freeLancers.add(freeLancer);
+	public void updateFreelancer(FreeLancers freeLancer, long id){
 	}
 	
 }
